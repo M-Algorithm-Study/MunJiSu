@@ -1,9 +1,9 @@
-# W02(230704 ~ 230710)
+# W03(230711 ~ 230717)
 
 ## 공통문제
-- [백준 10799 쇠막대기](https://www.acmicpc.net/problem/10799)
-- [프로그래머스 178870 연속된 부분 수열의 합](https://school.programmers.co.kr/learn/courses/30/lessons/178870)
-    - [투 포인터 알고리즘](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/two_pointer.md)
+- [백준 7569 토마토](https://www.acmicpc.net/problem/7569)
+- [백준 9663 N-Queen](https://www.acmicpc.net/problem/9663)
+<!-- - [투 포인터 알고리즘](https://github.com/JiSuMun/New_TIL/blob/main/Algorithm/two_pointer.md)
 
 ## 개인문제
 - [백준 1427 소트인사이드](https://www.acmicpc.net/problem/1427)
@@ -17,4 +17,4 @@
 문제 이해력
 
 ## 개선할 점
-문제를 정리하며 읽기
+문제를 정리하며 읽기 -->
