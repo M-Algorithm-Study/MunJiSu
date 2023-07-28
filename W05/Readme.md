@@ -6,8 +6,8 @@
 
 ## 개인문제
 - [백준 13909 창문닫기](https://www.acmicpc.net/problem/13909)
+- [백준 18258 큐2](https://www.acmicpc.net/problem/18258)
 
-- [백준 14425 문자열 집합](https://www.acmicpc.net/problem/14425)
-- [백준 13241 최소공배수](https://www.acmicpc.net/problem/13241)
+<!-- - [백준 13241 최소공배수](https://www.acmicpc.net/problem/13241) -->
 
 ## 후기
