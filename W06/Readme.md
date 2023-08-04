@@ -1,7 +1,7 @@
 # W05(230801 ~ 230807)
 
 ## 공통문제
-- [백준 15649 N과 M(5)](https://www.acmicpc.net/problem/15654)
+- [백준 15654 N과 M(5)](https://www.acmicpc.net/problem/15654)
 - [프로그래머스 43162 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 
 ## 개인문제
