@@ -6,7 +6,7 @@
 
 ## 개인문제
 - [백준 15650 N과 M(2)](https://www.acmicpc.net/problem/15650)
-<!-- - [백준 18258 큐2](https://www.acmicpc.net/problem/18258) -->
+- [백준 15651 N과 M(3)](https://www.acmicpc.net/problem/15651)
 <!-- - [백준 2485 가로수](https://www.acmicpc.net/problem/2485) -->
 
 ## 후기
