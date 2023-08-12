@@ -6,7 +6,7 @@
 
 ## 개인문제
 - [백준 1010 다리 놓기](https://www.acmicpc.net/problem/1010)
-<!-- - [백준 15651 N과 M(3)](https://www.acmicpc.net/problem/15651) -->
+- [백준 2003 수들의 합 2](https://www.acmicpc.net/problem/2003)
 <!-- - [백준 15652 N과 M(4)](https://www.acmicpc.net/problem/15652) -->
 
 ## 후기
