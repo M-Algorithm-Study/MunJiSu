@@ -15,3 +15,5 @@
 [W06 : 230801 ~ 230807](https://github.com/M-Algorithm-Study/MunJiSu/tree/main/W06)
 
 [W07 : 230808 ~ 230814](https://github.com/M-Algorithm-Study/MunJiSu/tree/main/W07)
+
+[W08 : 230815 ~ 230821](https://github.com/M-Algorithm-Study/MunJiSu/tree/main/W08)
