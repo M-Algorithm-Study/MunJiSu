@@ -1,8 +1,8 @@
 # W07(230815 ~ 230821)
 
 ## 공통문제
-- [백준 2667 치즈](https://www.acmicpc.net/problem/2638)
-- [백준 2468 숨바꼭질](https://www.acmicpc.net/problem/1697)
+- [백준 2638 치즈](https://www.acmicpc.net/problem/2638)
+- [백준 1697 숨바꼭질](https://www.acmicpc.net/problem/1697)
 
 ## 개인문제
 <!-- - [백준 1010 다리 놓기](https://www.acmicpc.net/problem/1010) -->
