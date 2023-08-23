@@ -6,7 +6,7 @@
 
 ## 개인문제
 - [백준 1735 분수 합](https://www.acmicpc.net/problem/1735)
-<!-- - [백준 2003 수들의 합 2](https://www.acmicpc.net/problem/2003) -->
+- [백준 2346 풍선 터뜨리기](https://www.acmicpc.net/problem/2346)
 <!-- - [백준 28278 스택 2](https://www.acmicpc.net/problem/28278) -->
 
 ## 후기
