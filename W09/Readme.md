@@ -5,7 +5,7 @@
 - [백준 13717 포켓몬 GO](https://www.acmicpc.net/problem/13717)
 
 ## 개인문제
-<!-- - [백준 1010 다리 놓기](https://www.acmicpc.net/problem/1010) -->
+- [백준 1735 분수 합](https://www.acmicpc.net/problem/1735)
 <!-- - [백준 2003 수들의 합 2](https://www.acmicpc.net/problem/2003) -->
 <!-- - [백준 28278 스택 2](https://www.acmicpc.net/problem/28278) -->
 
