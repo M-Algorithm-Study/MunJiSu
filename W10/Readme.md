@@ -2,7 +2,7 @@
 
 ## 공통문제
 - [백준 1806 부분합](https://www.acmicpc.net/problem/1806)
-<!-- - [백준 13717 포켓몬 GO](https://www.acmicpc.net/problem/13717) -->
+- [백준 2583 영역 구하기](https://www.acmicpc.net/problem/2583)
 
 ## 개인문제
 <!-- - [백준 1735 분수 합](https://www.acmicpc.net/problem/1735) -->
