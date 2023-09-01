@@ -5,7 +5,7 @@
 - [백준 2583 영역 구하기](https://www.acmicpc.net/problem/2583)
 
 ## 개인문제
-<!-- - [백준 1735 분수 합](https://www.acmicpc.net/problem/1735) -->
+- [SWEA 1215 회문1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi)
 <!-- - [백준 2346 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) -->
 <!-- - [백준 26069 붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069) -->
 
