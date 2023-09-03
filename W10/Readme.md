@@ -7,7 +7,7 @@
 ## 개인문제
 - [SWEA 1215 회문1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi)
 - [SWEA 1216 회문2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi)
-<!-- - [백준 26069 붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069) -->
+- [SWEA 1986 지그재그 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PxmBqAe8DFAUq)
 
 ## 후기
 <!-- 이번 주의 가장 어려웠던 문제는 아기 상어 이다. 이해가 어려웠던 탓에 문제 풀이를 하면서 주석으로 설명을 써가며 풀어야 했다.
