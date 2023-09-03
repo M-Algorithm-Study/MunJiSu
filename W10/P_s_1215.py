@@ -1,7 +1,7 @@
 # 시간복잡도: O(p * (8-p+1))
 
 import sys
-sys.stdin = open("input.txt", "r")
+sys.stdin = open("input_1215.txt", "r")
 
 T = 10
 for t in range(1, T + 1):

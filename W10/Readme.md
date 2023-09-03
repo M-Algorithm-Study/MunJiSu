@@ -6,7 +6,7 @@
 
 ## 개인문제
 - [SWEA 1215 회문1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14QpAaAAwCFAYi)
-<!-- - [백준 2346 풍선 터뜨리기](https://www.acmicpc.net/problem/2346) -->
+- [SWEA 1216 회문2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi)
 <!-- - [백준 26069 붙임성 좋은 총총이](https://www.acmicpc.net/problem/26069) -->
 
 ## 후기
