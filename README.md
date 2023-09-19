@@ -23,3 +23,5 @@
 [W10 : 230829 ~ 230904](https://github.com/M-Algorithm-Study/MunJiSu/tree/main/W10)
 
 [W11 : 230905 ~ 230918](https://github.com/M-Algorithm-Study/MunJiSu/tree/main/W11)
+
+[W12 : 230919 ~ 230925](https://github.com/M-Algorithm-Study/MunJiSu/tree/main/W12)
