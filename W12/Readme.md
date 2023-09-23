@@ -7,8 +7,8 @@
 ## 개인문제
 - [백준 3273 두 수의 합](https://www.acmicpc.net/problem/3273)
 - [백준 17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
-<!-- - [SWEA 1926 간단한 369게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq) -->
+- [백준 25192 인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192)
 
 ## 후기
-<!-- 이번 문제는 빗물이 조금 더 어려울 줄 알았으나 LCS 문제에서 문자열 인덱스를 지정해주는 것에서 오류가 많이 났다. -->
-<!-- 앞으로는 인덱스 길이에 좀 더 신경을 써서 문제를 풀어야겠다고 생각했다. -->
+이번 문제 중 리모컨이 생각하기 많이 까다로웠다. 계속 오류를 해결하기 바빴고, 알고보니 정수 리스트와 문자열을 비교하고 있었다.
+앞으로는 이런 부분을 많이 신경써야 겠다.
