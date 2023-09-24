@@ -6,7 +6,7 @@
 
 ## 개인문제
 - [백준 3273 두 수의 합](https://www.acmicpc.net/problem/3273)
-<!-- - [SWEA 1206 View](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh) -->
+- [백준 17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103)
 <!-- - [SWEA 1926 간단한 369게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PTeo6AHUDFAUq) -->
 
 ## 후기
