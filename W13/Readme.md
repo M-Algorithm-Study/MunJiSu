@@ -1,8 +1,8 @@
 # W13(230926 ~ 231002)
 
 ## 공통문제
-<!-- - [백준 1107 리모컨](https://www.acmicpc.net/problem/1107) -->
-<!-- - [백준 21736 헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) -->
+- [백준 20444 색종이와 가위](https://www.acmicpc.net/problem/20444)
+- [백준 12904 A와 B](https://www.acmicpc.net/problem/12904)
 
 ## 개인문제
 <!-- - [백준 3273 두 수의 합](https://www.acmicpc.net/problem/3273) -->
