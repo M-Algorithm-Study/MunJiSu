@@ -6,7 +6,7 @@
 
 ## 개인문제
 - [백준 12789 도키도키 간식드리미](https://www.acmicpc.net/problem/12789)
-<!-- - [백준 17103 골드바흐 파티션](https://www.acmicpc.net/problem/17103) -->
+- [백준 28279 덱 2](https://www.acmicpc.net/problem/28279)
 <!-- - [백준 25192 인사성 밝은 곰곰이](https://www.acmicpc.net/problem/25192) -->
 
 ## 후기
