@@ -6,7 +6,7 @@
 
 ## 개인문제
 - [백준 14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940)
-<!-- - [백준 28279 덱 2](https://www.acmicpc.net/problem/28279) -->
+- [백준 2630 색종이 만들기](https://www.acmicpc.net/problem/2630)
 <!-- - [백준 24511 queuestack](https://www.acmicpc.net/problem/24511) -->
 
 ## 후기
