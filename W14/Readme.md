@@ -5,7 +5,7 @@
 - [백준 12865 평범한 배낭](https://www.acmicpc.net/problem/12865)
 
 ## 개인문제
-<!-- - [백준 12789 도키도키 간식드리미](https://www.acmicpc.net/problem/12789) -->
+- [백준 14940 쉬운 최단거리](https://www.acmicpc.net/problem/14940)
 <!-- - [백준 28279 덱 2](https://www.acmicpc.net/problem/28279) -->
 <!-- - [백준 24511 queuestack](https://www.acmicpc.net/problem/24511) -->
 
