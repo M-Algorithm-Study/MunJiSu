@@ -1,4 +1,4 @@
-# 시간복잡도:
+# 시간복잡도: O(N^2 * logN)
 
 import sys
 
