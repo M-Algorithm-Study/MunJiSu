@@ -6,7 +6,6 @@
 
 ## 개인문제
 - [SWEA 1984 중간 평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pw_-KAdcDFAUq)
-<!-- - [백준 2630 색종이 만들기](https://www.acmicpc.net/problem/2630) -->
-<!-- - [백준 1931 회의실 배정](https://www.acmicpc.net/problem/1931) -->
+- [SWEA 2005 파스칼의 삼각형](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P0-h6Ak4DFAUq)
 
 ## 후기
