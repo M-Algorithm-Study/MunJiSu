@@ -28,7 +28,7 @@ input = sys.stdin.readline
 N = int(input())
 dp = [0] * (N + 1)
 
-# 1은 1을 빼는 방법만 사용 가능하기 때문에 dp[1] = 0 이다.
+# 1은 결과값이기 때문에 dp[1] = 0 이다.
 for i in range(2, N + 1):
     # 1을 빼는 연산 => 1회
     dp[i] = dp[i - 1] + 1
