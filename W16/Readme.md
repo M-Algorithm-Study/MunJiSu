@@ -1,7 +1,7 @@
 # W16(231017 ~ 231023)
 
 ## 공통문제
-<!-- - [백준 2747 피보나치 수](https://www.acmicpc.net/problem/2747) -->
+- [백준 14888 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
 <!-- - [백준 1463 1로 만들기](https://www.acmicpc.net/problem/1463) -->
 
 ## 개인문제
