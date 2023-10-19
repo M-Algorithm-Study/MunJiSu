@@ -37,7 +37,7 @@ def dfs(idx, cur):
             dfs(idx + 1, int(cur / nums[idx]))
             div += 1
 
-
+# idx가 1 => 맨 처음 숫자는 초기값으로 설정함
 dfs(1, nums[0])
 
 print(max_num, min_num, sep="\n")
