@@ -7,10 +7,10 @@ input = sys.stdin.readline
 N = int(input())
 nums = list(map(int, input().split()))
 plus, minus, multi, div = map(int, input().split())
-ops = ["+", "-", "*", "/"]
 
 # 최댓값으로 만들 수 있는 최솟값, 최솟값으로 만들 수 있는 최댓값
-max_num, min_num = -1e9, 1e9
+# 정수형으로 바꾸거나 범위 밖의 수를 지정해주지 않으면 틀림 => 질문게시판 참고
+max_num, min_num = int(-1e9), int(1e9)
 
 
 # 모든 경우의 수 탐색하기 위해서 dfs 마무리 된 후 연산자 개수 다시 채워줌
@@ -36,6 +36,7 @@ def dfs(idx, cur):
             div -= 1
             dfs(idx + 1, int(cur / nums[idx]))
             div += 1
+
 
 # idx가 1 => 맨 처음 숫자는 초기값으로 설정함
 dfs(1, nums[0])
