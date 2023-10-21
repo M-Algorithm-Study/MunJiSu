@@ -14,8 +14,6 @@ for i in range(n):
         if cable[i][1] > cable[j][1]:
             dp[i] = max(dp[i], dp[j] + 1)
 
-print(cable)
-print(dp)
 print(n - max(dp))
 
 """
