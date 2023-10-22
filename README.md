@@ -31,3 +31,5 @@
 [W14 : 231003 ~ 231009](https://github.com/M-Algorithm-Study/MunJiSu/tree/main/W14)
 
 [W15 : 231010 ~ 231016](https://github.com/M-Algorithm-Study/MunJiSu/tree/main/W15)
+
+[W16 : 231017 ~ 231023](https://github.com/M-Algorithm-Study/MunJiSu/tree/main/W16)
