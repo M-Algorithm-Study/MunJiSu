@@ -7,5 +7,6 @@
 
 ## 개인문제
 <!-- - [백준 2644 촌수계산](https://www.acmicpc.net/problem/2644) -->
+- [SWEA 1954 달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq)
 
 ## 후기
