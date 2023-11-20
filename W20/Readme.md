@@ -8,6 +8,7 @@
 ## 개인문제
 - [백준 1927 최소 힙](https://www.acmicpc.net/problem/1927)
 - [백준 1074 Z](https://www.acmicpc.net/problem/1074)
+- [백준 11279 최대 힙](https://www.acmicpc.net/problem/11279)
 
 ## 후기
 아이템 줍기 문제를 다른 사람의 설명을 참고하지 않고 풀었을 때 시간초과였다.
