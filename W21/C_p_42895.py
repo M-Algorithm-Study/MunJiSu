@@ -1,4 +1,4 @@
-# 시간복잡도: O(N)
+# 시간복잡도: O(4 * 8^4)
 
 def solution(N, number):
     # 중복 허용하지 않고 탐색이 빠른 set 사용
@@ -24,8 +24,6 @@ def solution(N, number):
             return i
     return -1
 
-
-solution(5, 12)
 
 """
 N을 i번 사용하는 경우
